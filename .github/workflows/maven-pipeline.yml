@@ -1,4 +1,4 @@
-name: Maven CI Level
+name: Maven CI Level1
 on:
 
   push:
